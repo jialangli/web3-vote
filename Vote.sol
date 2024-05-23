@@ -90,6 +90,3 @@ contract Vote {
     // 投票成功事件
     event voteSuccess(string message);
 }
-    // 投票成功事件
-    event voteSuccess(string);
-}
